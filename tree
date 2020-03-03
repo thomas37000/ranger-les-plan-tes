@@ -1,0 +1,20 @@
+wilder@wilder-ThinkPad-T440p:~/planets$ tree
+.
+├── fictional
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   └── cybertron.jpeg
+└── real
+    ├── gas-giant
+    │   ├── jupiter.jpeg
+    │   └── saturn.jpeg
+    ├── inhabited
+    │   ├── earth.jpeg
+    │   ├── mars.jpeg
+    │   ├── neptune.jpeg
+    │   └── uranus.jpeg
+    └── telluric
+        ├── earth.jpeg
+        ├── mars.jpeg
+        ├── mercury.jpeg
+        └── venus.jpeg
