@@ -1,0 +1,146 @@
+wilder@wilder-ThinkPad-T440p:~/planets$ history
+    1  333333333ÈÈÈÈÈÈ____Ç__ÇÇ"''("'(-&éé----éééAAAAAÉÉÉÉÉÉ\*pPPPPiiiiiIII
+    2  sudo nano /usr/share/X11/xkb/symbols/fr
+    3  sudo nano /usr/share/X11/xkb/symbols/mswindows-capslock
+    4  sudo add-apt-repository ppa:tsbarnes/indicator-keylock
+    5  sudo apt update
+    6  sudo apt-get install -y tree wget unzip
+    7  ~/quetes/shell
+    8  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+    9  planets.zip
+   10  unzip planets.zip
+   11  eog
+   12  eogs planets
+   13  mkdir real
+   14  mkdir fictional
+   15  mkdir inhabited
+   16  ls
+   17  cd planets/real
+   18  cd planets
+   19  cd planets/real
+   20  cd real
+   21  pwd
+   22  cd real/
+   23  cd planets/real
+   24  mkdir telluric gas giant dwarf-planets planets/real
+   25  cd ../real
+   26  mkdir telluric gas giant dwarf-planets
+   27  ls
+   28  rm -r gas giant
+   29  ls
+   30  mkdir gas-giant
+   31  ls
+   32  mv mercury earth pluto jupiter venus mars cybertron planet/real
+   33  ls
+   34  mv earth planet/real
+   35  ls
+   36  mv earth mercury venus mars planet/telluric
+   37  cd telluric
+   38  ls
+   39  cd ..
+   40  mv earth telluric/
+   41  cd telluric
+   42  ls
+   43  cd ..
+   44  mv earth.jpg telluric
+   45  cd telluric
+   46  ls
+   47  cd ..
+   48  mv earth.jpeg mercury.jpeg telluric/
+   49  cd telluric
+   50  ls
+   51  cd ..
+   52  mv mercury.jpeg mars.jpeg earth.jpeg telluric/
+   53  mv earth.jpeg telluric/
+   54  cd ..
+   55  ls
+   56  cd planets
+   57  ls
+   58  mv earth.jpeg mars.jpeg real/
+   59  cp earth.jpeg telluric/
+   60  cd telluric
+   61  ls
+   62  cd ..
+   63  ls
+   64  mv earth.jpeg mercury.jpeg telluric/
+   65  ls
+   66  cd telluric
+   67  ls
+   68  cd ..
+   69  mv mars.jpeg venus.jpeg telluric/
+   70  mv jupiter.jpeg saturn.jpeg gas-giant/
+   71  cd ..
+   72  cd planets
+   73  mkdir gas-giant
+   74  ls
+   75  rm -r gas 
+   76  rm -r giant
+   77  ls
+   78  mv jupiter.jpeg saturn.jpeg gas-giant/
+   79  mv coruscant.jpeg arrakis.jpeg cybertron.jpeg fictional/
+   80  ls
+   81  mkdir real
+   82  ls
+   83  mkdir fictional
+   84  mkdir gas-giant
+   85  mv coruscant.jpeg arrakis.jpeg cybertron.jpeg fictional/
+   86  mv mars.jpeg venus.jpeg telluric/
+   87  ls
+   88  cd telluric
+   89  cd ..
+   90  tree
+   91  cd real
+   92  ls
+   93  mkdir dwarf-planets telluric gas-giant
+   94  ls
+   95  cd..
+   96  cd ..
+   97  cd gas-giant
+   98  mv jupiter.jpeg saturn.jpeg real/gas-giant
+   99  mv jupiter.jpeg saturn.jpeg real/
+  100  mv jupiter.jpeg saturn.jpeg planets/
+  101  tree
+  102  cp jupiter.jpeg saturn.jpeg planets/
+  103  cd ..
+  104  cp jupiter.jpeg saturn.jpeg
+  105  tree
+  106  mkdir inhabited
+  107  ls
+  108  cp earth.jpeg neptune.jpeg pluto.jpeg uranus.jpeg inhabited/
+  109  cd inhabited
+  110  ls
+  111  cd ../telluric
+  112  cp earth.jpeg inhabited/
+  113  cd ..
+  114  tree
+  115  rm -r neptune.jpeg pluto.jpeg uranus.jpeg
+  116  tree
+  117  cd real
+  118  tree
+  119  cd ../telluric
+  120  cp earth.jpeg inhabited/
+  121  mv earth.jpeg planets/
+  122  cd ../inhabited
+  123  mv pluto.jpeg ..dwarf-planets/
+  124  mv pluto.jpeg ../dwarf-planets
+  125  cd..
+  126  cd ..
+  127  tree
+  128  cd telluric
+  129  cp earth.jpeg mars.jpeg ../inhabited/
+  130  cd..
+  131  cd ..
+  132  tree
+  133  rm -r dwarf-planets/
+  134  tree
+  135  history
+  136  mv telluric real/
+  137  ls
+  138  mv gas-giant real/
+  139  mv inhabited real/
+  140  tree
+  141  cd real
+  142  rm -r dwarf-planets/
+  143  cd ..
+  144  tree
+  145  history
